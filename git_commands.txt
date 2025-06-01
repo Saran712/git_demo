@@ -9,3 +9,7 @@ git log - used to see the changes
 git tag - it show the tags
 git push origin tag_name - used to push the tag to github
 git clone <repositary url>
+
+git checkout -b <branch name>
+    or
+git switch -b <branch name>
