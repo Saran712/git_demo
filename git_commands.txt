@@ -21,3 +21,8 @@ git push origin --delete branch_name - delete branch in remote repositary
 
 
 git branch - shows the available branches
+
+add features from other branch to main 
+
+1 git switch main
+2 git merge <other_branch_name>
