@@ -26,3 +26,9 @@ add features from other branch to main
 
 1 git switch main
 2 git merge <other_branch_name>
+
+remove file in a repositary
+
+git rm filename.txt
+git commit -m "Deleted filename.txt"
+git push origin branch_name
