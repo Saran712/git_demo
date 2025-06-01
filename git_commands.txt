@@ -17,4 +17,7 @@ git switch <branch name> - switches to given branch
 git switch -    -goes to the previous branch
 git branch -d <branch_name> - deletes the branch
 
+git push origin --delete branch_name - delete branch in remote repositary
+
+
 git branch - shows the available branches
