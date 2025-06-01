@@ -8,3 +8,4 @@ git tag -a "tag name" - used to create  a version "-a" means annotation
 git log - used to see the changes
 git tag - it show the tags
 git push origin tag_name - used to push the tag to github
+git clone <repositary url>
