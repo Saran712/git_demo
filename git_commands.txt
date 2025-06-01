@@ -13,5 +13,8 @@ git clone <repositary url>
 git checkout -b <branch name>
     or
 git switch -c <branch name>
+git switch <branch name> - switches to given branch
+git switch -    -goes to the previous branch
+git branch -d <branch_name> - deletes the branch
 
 git branch - shows the available branches
