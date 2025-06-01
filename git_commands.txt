@@ -32,3 +32,8 @@ remove file in a repositary
 git rm filename.txt
 git commit -m "Deleted filename.txt"
 git push origin branch_name
+
+git pull is a Git command that downloads (fetches)
+changes from a remote repository and automatically merges them into your current local branch.
+
+git pull origin <branch_name> 
