@@ -12,6 +12,6 @@ git clone <repositary url>
 
 git checkout -b <branch name>
     or
-git switch -b <branch name>
+git switch -c <branch name>
 
 git branch - shows the available branches
